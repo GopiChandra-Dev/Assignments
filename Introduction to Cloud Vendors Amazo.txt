@@ -1,0 +1,12 @@
+Introduction to Cloud Vendors: Amazon,Microsoft,IBM
+
+
+Cloud vendors are companies that provide cloud computing services to businesses and individuals. They typically offer a range of services such as infrastructure as a service (IaaS), platform as a service (PaaS), and software as a service (SaaS) that can be accessed over the internet.
+
+Amazon Web Services (AWS) is a subsidiary of Amazon.com that provides on-demand cloud computing services to individuals, companies, and governments. AWS offers a broad range of cloud services, including compute, storage, networking, security, database, analytics, machine learning, and IoT services.
+
+Microsoft Azure is a cloud computing platform that provides a wide range of services, including virtual machines, storage, databases, analytics, and machine learning. Azure also includes PaaS services for developers, such as Azure App Service, Azure Functions, and Azure DevOps, as well as SaaS services such as Microsoft Dynamics 365.
+
+IBM Cloud is a cloud computing platform that provides a range of services, including compute, storage, database, networking, security, and analytics. IBM also offers PaaS services, such as IBM Watson Studio, IBM Cloud Functions, and IBM Cloud Foundry, and SaaS services such as IBM Watson Assistant and IBM Maximo. Additionally, IBM Cloud offers hybrid cloud capabilities, allowing customers to run applications across both private and public cloud environments.
+
+Each of these cloud vendors has its strengths and weaknesses, and businesses should carefully consider their specific needs when choosing a cloud provider. Some factors to consider include pricing, performance, reliability, scalability, security, and compliance with industry regulations.
